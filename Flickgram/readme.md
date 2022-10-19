@@ -57,6 +57,7 @@
  
  # Go into xCode
  - Wait till spm files builded. After than push cmd + r
+ 
 ==========================================================================================
 
 
